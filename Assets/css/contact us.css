@@ -1,0 +1,78 @@
+body{
+
+	background-color:rgb(255, 255, 255) ;
+}
+
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.container{
+
+}
+.head2{
+	text-align: center;
+	padding-top: 20px;
+	color: rgb(7, 7, 114);
+
+
+}
+.p-text{
+	text-align: center;
+	color: rgb(7, 7, 114);
+}
+
+.map-container{
+	/* height: 600px;
+	width: 800px; */
+	border:2px solid rgb(5, 17, 112);
+	/* position: absolute; */
+	box-shadow: 2px 2px 10px rgb(4, 10, 94);
+	margin-top: 10px;
+	margin-left: 30px;
+	height: 100%;
+	width: 80%;
+	/* margin-bottom: 20px; */
+}
+.ct{
+	margin-top: 30px;
+}
+.input-group{
+	/* margin-top: 20px; */
+	border: 2px solid black;
+	border-radius: 4px;
+	width: 80%;
+	margin-left: 30px;
+	margin-top: 10px;
+
+}
+.contactlogo{
+	margin-top: 10px;
+	background-color: blanchedalmond;
+	width: 80%;
+	height: 30px;
+	margin-left: 30px;
+	border-radius: 4px;
+}
+.ic{
+	/* color: red;
+	background-color: red; */
+	padding-top: 5px;
+	width: 100%;
+	font-size: 20px;
+	margin-left: 0px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.sb{
+	margin-top: 10px;
+	background-color:white;
+	/* border: 2px solid blue; */
+	border-radius: 4px;
+	margin-left: 30px;
+	width: 80%;
+	/* margin-left: 20px; */
+}

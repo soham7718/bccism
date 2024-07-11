@@ -1,0 +1,227 @@
+
+   
+   
+   /* --Trophy-- */
+.trophy{
+    margin-top: 20px;
+    /* background-color: rgb(53, 53, 58); */
+    background-image: url("../img/texture2.png");
+    /* border-radius: 30px; */
+    border: 2px solid goldenrod;
+    /* height: 175px; */
+}
+.td{
+    width: 25%;
+    border: 2px solid rgb(245, 241, 241);
+    /* filter: drop-shadow(0px 0px 10px white); */
+    /* box-shadow: 0px 0px 10px rgb(255, 255, 255); */
+    /* border-radius: 30px; */
+    /* height: 420px; */
+    background-image: url("../img/texture6.png");
+    transition: 1s;
+    
+}
+.td:hover{
+    width: 25%;
+    border: 2px solid rgb(245, 241, 241);
+    /* filter: drop-shadow(0px 0px 10px white); */
+    /* box-shadow: 0px 0px 10px rgb(255, 255, 255); */
+    /* border-radius: 30px; */
+    /* height: 420px; */
+    background-image: url("../img/texture7.png");
+}
+h5{
+    font-size:24px;
+    text-align: center;
+    /* margin-top: -40px; */
+    color: rgb(245, 247, 244);
+    text-shadow: 0px 0px 5px white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   
+    
+}
+.tfooter{
+    text-align: center;
+    
+    color: rgb(255, 255, 255);
+    /* box-shadow: 0px -1px 20px rgb(45, 156, 235); */
+    text-shadow: 1px 1px 10px rgb(247, 245, 245);
+    padding-top: 10px;
+    height: 58px;
+    background:linear-gradient(90deg,rgb(37, 37, 248),rgb(9, 9, 81));
+    
+    
+
+}
+    /* --Brand-- */
+.brand-i{
+    background-color: rgba(0, 0, 0, 0.766);
+    margin-top:20px ;
+    width: 60%;
+    /* margin-left: 15%; */
+    border-radius: 20px;
+    border: 3px solid rgb(254, 254, 253);
+    filter: drop-shadow(0px 0px 6px rgb(0, 157, 255));
+    background-image: url("../img/texture4.png");
+}
+.brand-logo{
+    width: 70%;
+    height: 100%;
+    /* margin-top: 5%; */
+    margin-left: 30%;
+    padding: 2px;
+    /* margin-left: 30%; */
+    /* border: 2px solid white; */
+    /* margin-top: 10%; */
+    /* height: 75%; */
+    
+    /* filter: drop-shadow(0px 0px 2px rgba(245, 246, 247, 0.584)); */
+}
+
+
+.brand-logo2{
+    width: 55%;
+    margin-left: 30px;
+    /* box-shadow: 0px 0px 4px white; */
+    /* filter: drop-shadow(0px 0px 2px rgb(242, 243, 244)); */
+    
+}
+
+    /* --Jersey-- */
+
+.jd{
+    width: 25%;
+    background-color: rgba(22, 22, 23, 0.642);
+    background-image: url("../img/texture2.png");
+    border: 2px solid rgb(245, 241, 241);
+    border-radius: 20px;
+    filter: drop-shadow(0px 0px 10px rgb(255, 255, 255));
+    /* border-radius: 30px; */
+    /* height: 420px; */
+    /* filter: grayscale(100%); */
+    
+}
+/* .jd:hover{
+    filter: grayscale(0%);
+} */
+.jersey{
+    margin-top: 20px;
+    /* background-color: rgba(39, 39, 42, 0.563);
+    background-image: url("../img/texture2.png"); */
+    border-radius:0px 0px 20px 20px;
+    border: 2px solid goldenrod;
+    
+}
+h3{
+    font-size:24px;
+    text-align: center;
+    margin-top: -40px;
+    color: rgb(245, 247, 244);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+    
+}
+
+
+.card{
+    background-color: rgb(249, 245, 246);
+   
+    border: 2px solid rgb(250, 247, 247);
+    border-radius: 0px 0px 40px 40px ;
+    height: 35%;
+    margin-top: 7px;
+    background-color: rgb(14, 14, 73);
+    /* border-radius: 0% 0% 50% 50%;
+    height: 250px; */
+    /* width: 100%; */
+
+    
+    
+}
+.i-top{
+    display: flex;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.h-logo{
+    height:50px;
+    width: 50px;
+    margin-left: 10px;
+   object-fit: cover;
+   display: inline-block;
+   /* box-shadow:-2px -2px 7px white; */
+   border-radius:9px;
+}
+.img-i{
+    margin-top: 10px;
+    border-radius: 50%;
+    /* height: 70%; */
+    width: 100%;
+    /* margin-left: 15px; */
+    /* border: 2px solid orange; */
+    filter: drop-shadow(0px 0px 10px rgb(4, 12, 25));
+    transition: 0.7s;
+}
+.img-i:hover{
+    transform:scale(1.1);
+    border: 2px solid rgb(246, 246, 247);
+}
+.mem{
+
+    background-color: rgba(238, 233, 229, 0.204);
+    background-image: url("../img/texture3.png");
+    margin-top: 20px;
+    border: 2px solid goldenrod;
+    
+}
+.hmember{
+    
+    height: 50px;
+    
+    color: rgb(245, 245, 250);
+    background-color: rgb(12, 10, 54);
+    text-align: center;
+    font-size: 24px;
+    border-radius: 0px 0px 20px 20px;
+    padding-top: 5px;
+    /* margin-top: 20px; */
+    /* border: 2px solid goldenrod; */
+    /* box-shadow: 0px 0px 12px black; */
+    text-shadow: 0px 0px 10px goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+.pmember{
+    /* background-color: blue; */
+    text-align: center;
+    /* height: 120px; */
+    height: 35px;
+    border-radius: 12px;
+    color: white;
+    
+   
+}
+h4{
+    /* margin-top: 2px; */
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    background-color: rgb(61, 72, 60)  ;
+    height: 33px;
+    padding-top: 4px;
+    border-radius: 12px;
+    filter: drop-shadow(0px 0px 10px white);
+}
+p{
+    margin-top: -7px;
+    height: 25px;
+    background-color: rgba(0, 0, 255, 0.736) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+
+
